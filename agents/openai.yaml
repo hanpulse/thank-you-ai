@@ -1,0 +1,6 @@
+interface:
+  display_name: "Thank You, AI"
+  short_description: "将真正的收尾感谢转为克制复盘、可复用经验与流程候选记录"
+  default_prompt: "Use $thank-you-ai to close this completed task and retain only any lesson worth reusing."
+policy:
+  allow_implicit_invocation: true
