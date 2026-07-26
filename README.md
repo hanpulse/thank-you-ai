@@ -12,9 +12,11 @@ An Agent Skills skill that turns a genuine end-of-task "thank you" into a quiet 
 
 ## Why this exists
 
-A "thank you" is the only end-of-task signal a human gives for free. Everything else — a `/retro` command, "summarize what we did" — requires remembering to ask, which nobody does while busy. This skill spends that free signal on two things: giving the conversation an actual ending, and leaving behind the one note that makes the next task faster.
+Being grateful is a virtue, not a productivity technique. For most people, saying "thanks" is already a habit — learned long before AI existed, and it doesn't switch off just because the other side is a model instead of a person.
 
-Most of the time it does nothing at all — a passing "thanks" gets a one-line acknowledgment and the agent keeps working. That silence is the feature, not a gap.
+This skill doesn't ask you to change that habit. It gives the one you already have a job: since the word is being said anyway, let it also mark that a task is actually done, and leave behind the one note that makes tomorrow's version of it faster. A "thank you" is the only end-of-task signal a human gives for free — everything else, a `/retro` command, "summarize what we did", requires remembering to ask, which nobody does while busy.
+
+That's also why restraint is the first design principle: turning every "thanks" into a checklist would mean exploiting your courtesy instead of respecting it. Most of the time, the skill does nothing at all — a passing "thanks" gets a one-line acknowledgment and the agent keeps working. That silence is deliberate.
 
 ## Install
 
