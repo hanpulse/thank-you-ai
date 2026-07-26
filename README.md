@@ -29,7 +29,7 @@ It also works as a project-local skill when placed in that host's supported proj
 
 ## How it works
 
-1. **Detect** — gratitude in any language, or an explicit session close ("that's all for today", "先这样").
+1. **Detect** — gratitude in any language, or an explicit session close ("that's all for today", "wrapping up").
 2. **Triage** — exactly one tier: passing, closing, emphatic, or hollow. When it's unclear, the skill always resolves toward doing less — a missed reflection costs one note, a wrongly triggered one interrupts your momentum.
 3. **Reflect** — only if it clears the rewind test: *knowing what the agent knows now, would this change the first five minutes of a similar task tomorrow?* Most sessions produce zero keepers, and that's a valid outcome.
 4. **Capture** — one sharp, specific note, written into whatever memory store the current host already uses — never a second, competing memory system.
